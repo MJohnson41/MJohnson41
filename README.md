@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+- I'm currently working on expanding my cybersecurity skills
+- I'm working with TryHackMe to get my basic skills developed; and learning Azure and MVD to get context with cybersecurity technology.
+  
 <!--
 **MJohnson41/MJohnson41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
